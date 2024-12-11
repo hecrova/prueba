@@ -1,6 +1,6 @@
 ## Motivación del Proyecto
 
-¿Qué sucede cuando combinamos la Navidad con una galaxia muy, muy lejana? 
+**¿Qué sucede cuando combinamos la Navidad con una galaxia muy, muy lejana?** 
 Imagina un belén navideño que cobra vida con luces sincronizadas, melodías épicas y tecnología avanzada, inspirado en el universo de *Star Wars*.  
 Este proyecto  es el trabajo final del Bloque VI del Máster del Profesorado, impartido por el profesor José Antonio Aveleira.
 
@@ -9,7 +9,7 @@ El objetivo es crear algo más que una decoración: es una experiencia interacti
 ## Objetivos del Proyecto
 
 1. **Diseñar una experiencia interactiva:** Crear un belén navideño temático de *Star Wars*, que combine luces y música sincronizadas con la tecnología de sensores infrarrojos para capturar la atención y la imaginación.  
-2. **Desarollar la creatividad tecnológica:** Programar un microcontrolador ESP32 para ejecutar secuencias dinámicas que integren LEDs, un buzzer y control remoto, mostrando la potencia de la tecnología aplicada al arte y el entretenimiento.  
+2. **Desarrollar la creatividad tecnológica:** Programar un microcontrolador ESP32 para ejecutar secuencias dinámicas que integren LEDs, un buzzer y control remoto, mostrando la potencia de la tecnología aplicada al arte y el entretenimiento.  
 3. **Impulsar la creatividad artística:** Incorporar elementos decorativos únicos mediante impresión 3D y materiales personalizados, creando un ambiente que mezcla tradición navideña y ciencia ficción.  
 4. **Compartir:** Documentar el proyecto, haciéndolo accesible a la comunidad a través de GitHub, para inspirar a otros a replicar o reinventar esta idea.  
 
