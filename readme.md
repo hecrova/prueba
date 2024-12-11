@@ -1,6 +1,7 @@
 ## Motivación del Proyecto
 
 **¿Qué sucede cuando combinamos la Navidad con una galaxia muy, muy lejana?** 
+
 Imagina un belén navideño que cobra vida con luces sincronizadas, melodías épicas y tecnología avanzada, inspirado en el universo de *Star Wars*.  
 
 Este proyecto  es el trabajo final del Bloque VI del Máster del Profesorado, impartido por el profesor José Antonio Aveleira.
