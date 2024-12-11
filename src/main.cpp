@@ -178,8 +178,11 @@ void performSequence() {
     int ledsStarWars[] = {LED_1, LED_2, LED_3, LED_4};
     playMelodyWithLEDs(starWarsMelody, sizeof(starWarsMelody) / sizeof(starWarsMelody[0]), ledsStarWars, 4);
 
+Serial.begin(115200);
+
+
     // Retraso de 2 segundos antes de la segunda canción
-    delay(2000);
+    delay(3000);
 
     // Reproducir Marcha Imperial con LEDs 23 y 16
     int ledsImperial[] = {LED_6, LED_7};
@@ -196,5 +199,6 @@ void loop() {
     Key17 command = irController.getKey();
     if (command == Key17::KEY_1) {
         performSequence();
+
     }
 }
