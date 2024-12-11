@@ -1,6 +1,8 @@
 # Proyecto: Control de LEDs y Reproducción Musical con Arduino
 
 Este proyecto es una tarea del bloque VI del Master del Profesorado. Asignatura impartida por el profesor José Antonio Aveleira. Implementamos un sistema basado en ESP32 para controlar LEDs y reproducir melodías mediante un buzzer. La interacción se realiza a través de un control remoto de infrarrojos, permitiendo activar secuencias visuales y sonoras.
+Este proyecto esta diseñado para crear un belen navideño que atraiga la atención de los más pequeños de la casa. El bélen no es tradicional ya que tiene una temática distinta basada en el universo "Star Wars".
+
 
 ## Características del Proyecto
 
